@@ -1,5 +1,5 @@
 {
-  "name": "24-basic-informational-site",
+  "name": "my-first-nodejs-app",
   "version": "1.0.0",
   "description": "https://www.theodinproject.com/lessons/nodejs-getting-started",
   "main": "./index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TruffleBug/24-basic-informational-site.git"
+    "url": "git+https://github.com/TruffleBug/my-first-nodejs-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TruffleBug/24-basic-informational-site/issues"
+    "url": "https://github.com/TruffleBug/my-first-nodejs-app/issues"
   },
-  "homepage": "https://github.com/TruffleBug/24-basic-informational-site#readme",
+  "homepage": "https://github.com/TruffleBug/my-first-nodejs-app#readme",
   "dependencies": {
     "nodemon": "^3.1.9",
     "uuid": "^11.1.0"
